@@ -2,6 +2,6 @@
 I'm Tyrion, Cool name Jack Chen, I have a great passion for knowledge.
 ***
 - HTML / CSS / Javascript / Typescript / Node.js / React / Vue / Angular
-- web components / micro front / all of new technology
+- Web Components / Micro Front / All of new technology
 - Working on a blockchain company in BeiJing
 - Hobby: Accompany with my family do my own things, Such as Swimming, Music Bruce etc..
