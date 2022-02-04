@@ -1,6 +1,7 @@
 ### Hey, ouuan here! 👋
-I'm Tyrion, Cool name Jack Chen.
+I'm Tyrion, Cool name Jack Chen, I have a great passion for knowledge.
 ***
 - HTML / CSS / Javascript / Typescript / Node.js / React / Vue / Angular
-- Working on a company in BeiJing
-- Hobby: Swimming, Music Bruce, LOL ,PUBG
+- web components / micro front / all of new technology
+- Working on a blockchain company in BeiJing
+- Hobby: Accompany with my family do my own things, Such as Swimming, Music Bruce etc..
